@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670212339 source:c:\users\admin\desktop\code_blocks\bt3\bt3-5_tr52\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

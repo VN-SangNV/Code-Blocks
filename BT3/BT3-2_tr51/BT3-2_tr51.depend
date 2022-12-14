@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669970451 source:c:\users\admin\desktop\code_blocks\bt3\bt3-2_tr51\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+
